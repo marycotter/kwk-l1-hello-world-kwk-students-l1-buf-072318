@@ -1,1 +1,1 @@
-puts "beepbeeplettuce"
+puts ""
